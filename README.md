@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer | Backend enthusiast | Passionate about building robust web solutions</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-      <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif"  style="width:100" alt="" />
+      <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif"  style="width:100px height:100px" alt="" />
 
 
 - 🌱 I’m currently learning **.NET, AWS**
